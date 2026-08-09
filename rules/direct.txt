@@ -4,3 +4,4 @@
 
 *.boring1998.top
 *.mxzu.net
+*.qupanshe.com
