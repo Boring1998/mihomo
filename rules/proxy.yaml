@@ -2,4 +2,4 @@
 # 代理域名
 # ============================================
 
-DOMAIN-SUFFIX,gitgud.io
+  - DOMAIN-SUFFIX,gitgud.io
