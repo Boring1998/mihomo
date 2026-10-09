@@ -2,6 +2,6 @@
 # 直连域名（不走代理）
 # ============================================
 
-DOMAIN-SUFFIX,boring1998.top
-DOMAIN-SUFFIX,mxzu.net
-DOMAIN-SUFFIX,qupanshe.com
+  - DOMAIN-SUFFIX,boring1998.top
+  - DOMAIN-SUFFIX,mxzu.net
+  - DOMAIN-SUFFIX,qupanshe.com
