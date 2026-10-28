@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,mxzu.net
   - DOMAIN-SUFFIX,qupanshe.com
   - DOMAIN-SUFFIX,yt.net
+  - IP-CIDR,154.23.243.50/32
