@@ -4,4 +4,5 @@
 payload:
   - DOMAIN-SUFFIX,gitgud.io
   - DOMAIN-SUFFIX,sub.boring1998.top
+  - IP-CIDR,154.23.243.50/32,no-resolve
             
